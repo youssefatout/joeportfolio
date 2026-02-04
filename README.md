@@ -129,7 +129,7 @@ Feel free to fork this project and customize it for your own use!
 - Email: [yousseftarek0155@gmail.com](mailto:yousseftarek0155@gmail.com)
 - GitHub: [@youssefatout](https://github.com/youssefatout)
 - LinkedIn: [Youssef Tarek](https://www.linkedin.com/in/youssef-t-14aaa2231)
-- Twitter: [@yourhandle](https://x.com/YousseffTarek_)
+- Twitter: [@YousseffTarek_](https://x.com/YousseffTarek_)
 
 ---
 
