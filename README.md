@@ -52,7 +52,7 @@ A sleek, dark-themed portfolio with:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/youssefatout/portfolio.git
+   git clone https://github.com/youssefatout/joeportfolio.git
    ```
 
 2. Open `index.html` in your browser
