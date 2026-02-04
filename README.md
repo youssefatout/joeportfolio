@@ -4,7 +4,7 @@ A modern, responsive developer portfolio showcasing my projects and skills.
 
 ## 🚀 Live Demo
 
-[View Live Site](https://https://youssefatout.netlify.app/portfolio)
+[View Live Site](https://https://youssefatout.netlify.app/)
 
 ## 📸 Preview
 
@@ -12,7 +12,7 @@ A sleek, dark-themed portfolio with:
 - Animated gradient backgrounds
 - Smooth scroll interactions
 - Responsive design for all devices
-- 8 featured projects
+- 4 featured projects
 - Interactive skill badges
 
 ## 🛠️ Built With
@@ -36,7 +36,7 @@ A sleek, dark-themed portfolio with:
 
 1. **Hero** - Eye-catching introduction with gradient text
 2. **About** - Personal bio and tech stack
-3. **Projects** - 8 featured projects with live demo and code links
+3. **Projects** - 4 featured projects with live demo and code links
 4. **Contact** - Social links and availability status
 
 ## 🎨 Color Palette
