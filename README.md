@@ -4,7 +4,7 @@ A modern, responsive developer portfolio showcasing my projects and skills.
 
 ## 🚀 Live Demo
 
-[View Live Site](https://https://youssefatout.netlify.app/)
+[View Live Site](https://youssefatout.netlify.app/)
 
 ## 📸 Preview
 
